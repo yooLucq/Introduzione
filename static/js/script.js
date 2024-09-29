@@ -14,7 +14,7 @@ if(ans1 === "messi"){
 }
 else{
     risposta_sbagliata++
-    consol.log("Risposta corretta: "+ "messi")
+    console.log("Risposta corretta: "+ "messi")
 }
 
 let ans2 = prompt("Chi ha vinto l'ultimo mondiale del 2022?")
@@ -30,7 +30,7 @@ if(ans2 === "argentina"){
 }
 else{
     risposta_sbagliata++
-    consol.log("Risposta corretta: "+ "argentina")
+    console.log("Risposta corretta: "+ "argentina")
 }
 
 let ans3 = prompt("Chi ha scritto la divina commedia?")
@@ -46,7 +46,7 @@ if(ans3 === "dante"){
 }
 else{
     risposta_sbagliata++
-    consol.log("Risposta corretta: "+ "dante")
+    console.log("Risposta corretta: "+ "dante")
 }
 
 let ans4 = prompt("Dove si trova la torre Eiffel?")
@@ -62,7 +62,7 @@ if(ans4 === "parigi"){
 }
 else{
     risposta_sbagliata++
-    consol.log("Risposta corretta: "+ "parigi")
+    console.log("Risposta corretta: "+ "parigi")
 }
 
 let ans5 = prompt("Qual è la capitale della Spagna?")
@@ -78,7 +78,7 @@ if(asn5 === "madrid"){
 }
 else{
     risposta_sbagliata++
-    consol.log("Risposta corretta: "+ "madrid")
+    console.log("Risposta corretta: "+ "madrid")
 }
 
 let ans6 = prompt("Quando è scoppiata la prima guerra mondiale?")
@@ -94,7 +94,7 @@ if(asn6 === "1914"){
 }
 else{
     risposta_sbagliata++
-    consol.log("Risposta corretta: "+ "1914")
+    console.log("Risposta corretta: "+ "1914")
 }
 
 let ans7 = prompt("Qual è il risultato di 100 diviso 4?")
@@ -110,7 +110,7 @@ if(ans7 === "25"){
   }
 else{
     risposta_sbagliata++
-    consol.log("Risposta corretta: " + "25")
+    console.log("Risposta corretta: " + "25")
 }
 
 
