@@ -73,7 +73,7 @@ if(ans5 === null){
 }
 ans5 = ans5.toLowerCase()
 ans5 = ans5.trim()
-if(asn5 === "madrid"){
+if(ans5 === "madrid"){
     punteggio++
 }
 else{
@@ -87,9 +87,9 @@ if(ans6 === null){
         ans6 = prompt("Rispondi alla domanda, Quando è scoppiata la prima guerra mondiale?")
     }
 }
-asn6 = asn6.toLowerCase()
-asn6 = ans6.trim()
-if(asn6 === "1914"){
+ans6 = ans6.toLowerCase()
+ans6 = ans6.trim()
+if(ans6 === "1914"){
     punteggio++
 }
 else{
@@ -114,4 +114,5 @@ else{
 }
 
 
-
+console.log("Punteggio: "+ punteggio)
+console.log("Risposte sbagliate: "+ risposta_sbagliata)
